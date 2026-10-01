@@ -1,0 +1,7 @@
+{
+  "runIds": [
+    "gemini-vegalite-smoke",
+    "gpt5-full-matrix-v1",
+    "qwen35-plus-full-matrix-v1"
+  ]
+}
